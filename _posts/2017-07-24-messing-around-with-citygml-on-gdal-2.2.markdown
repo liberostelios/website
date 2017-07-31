@@ -26,13 +26,13 @@ Meanwhile, there is a small workaround to make CityGML schema work with GDAL 2.2
 - Go to your home folder (e.g., `/home/your_username/` on Linux) and find the `.gdal/gmlas_xsd_cache` folder. There must be several `.xsd` files in there, including all files describing the CityGML schema.
 - Open all files of CityGML (they are of `schemas.opengis.net_citygml_V.0_MODULE.xsd` format) and inside the `xs:schema` tag duplicate the first `xmlns`. Then, add the prefix of this module to the second instance. So, for instance, if this is the base schema file (the core module), then the original tag should be changed from
 
-    ~~~
+    ~~~ xml
     <xs:schema xmlns="http://www.opengis.net/citygml/1.0" xmlns:xAL="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml" targetNamespace="http://www.opengis.net/citygml/1.0" elementFormDefault="qualified" attributeFormDefault="unqualified">
     ~~~
 
     to
 
-    ~~~
+    ~~~ xml
     <xs:schema xmlns="http://www.opengis.net/citygml/1.0" xmlns:core="http://www.opengis.net/citygml/1.0" xmlns:xAL="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml" targetNamespace="http://www.opengis.net/citygml/1.0" elementFormDefault="qualified" attributeFormDefault="unqualified">
     ~~~
 
