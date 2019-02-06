@@ -3,7 +3,14 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" style="padding-right:15px" href="https://3d.bk.tudelft.nl"><img class="logo" style="width:35px;height:34px" src="{{ "/img/logos/3d-geoinfo.png" | prepend: site.baseurl }}"/></a>
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <!-- <a class="navbar-brand hidden-xs" href="{{ "/" | prepend: site.baseurl }}">
+      <img class="logo" src="{{ "/img/logos/navbar-white.png" | prepend: site.baseurl }}" onmouseover="this.src='{{ "/img/logos/navbar-blue.png" | prepend: site.baseurl }}'" onmouseout="this.src='{{ "/img/logos/navbar-white.png" | prepend: site.baseurl }}'" />
+    </a>
+    <a class="navbar-brand visible-xs-block" href="{{ "/" | prepend: site.baseurl }}">
+      <img class="logo"  src="{{ "/img/logos/navbar-short-white.png" | prepend: site.baseurl }}" onmouseover="this.src='{{ "/img/logos/navbar-short-blue.png" | prepend: site.baseurl }}'" onmouseout="this.src='{{ "/img/logos/navbar-short-white.png" | prepend: site.baseurl }}'" />
+    </a> -->
   
     {% if page_paths %}
       <nav class="site-nav">
