@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Stelios Vitalis
 email: s.vitalis@tudelft.nl
-description: > # this means to ignore newlines until "baseurl:"
-  I am a GIS Software Engineer, part of the 3D geoinformation group at TU Delft.
+#description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/svitalis" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liberostelios
