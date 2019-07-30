@@ -1,10 +1,28 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
-I am a GIS Software Engineer, working as a PhD candidate of [3D geoinformation][3d-geoinformation] group at Faculty of Architecture [TU Delft](http://www.tudelft.nl).
+## E-mail
 
+<i class="fas fa-envelope"></i> [s.vitalis@tudelft.nl](mailto:s.vitalis@tudelft.nl)
 
-[3d-geoinformation]: http://3d.bk.tudelft.nl
+## Working address
+
+Faculty of the Built Environment \\
+Department of Urbanism \\
+Julianalaan 134 \\
+2628 BL Delft \\
+The Netherlands
+
+## Web page
+
+<i class="fas fa-home"></i>  [My website](https://3d.bk.tudelft.nl/svitalis) \\
+<i class="fas fa-coffee"></i>  [3d geoinformation group](https://3d.bk.tudelft.nl)
+
+## Social media
+
+<i class="fab fa-github"></i> [liberostelios](https://github.com/liberostelios) \\
+<i class="fab fa-twitter"></i> [liberostelios](https://twitter.com/liberostelios) \\
+<i class="fab fa-linkedin"></i> [Stelios Vitalis](https://www.linkedin.com/in/steliosvitalis)
