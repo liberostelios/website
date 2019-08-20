@@ -1,0 +1,65 @@
+{	:Vitalis2018{:
+classo:Parslet::Slice:@positiono:Parslet::Position:@stringI"Ê@inproceedings{Vitalis2018,
+  author    = {Stelios Vitalis and Ken Arroyo Ohori and Jantien Stoter},
+  title     = {Topological Reconstruction of {3D} City Models with preservation of semantics},
+  booktitle = {Geospatial Technologies for All : short papers, posters and poster abstracts of the 21th AGILE Conference on Geographic Information Science},
+  year      = {2018},
+  editor    = {Mansourian, A. and Pilesj{\"{o}}, P. and Harrie, L. and von Lammeren, R.},
+  month     = jun,
+  publisher = {{Lund University}},
+  note      = {Accessible through https://agile-online.org/index.php/conference/proceedings/proceedings-2018},
+}
+
+@article{Vitalis2018a,
+  author    = {S. Vitalis and K. Arroyo Ohori and J. Stoter},
+  title     = {A {FRAMEWORK} {FOR} {THE} {REPRESENTATION} {OF} {TWO} {VERSIONS} {OF} A 3D {CITY} {MODEL} {IN} 4D {SPACE}},
+  journal   = {{ISPRS} Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  year      = {2018},
+  volume    = {{IV}-4/W6},
+  pages     = {81--88},
+  month     = {sep},
+  doi       = {10.5194/isprs-annals-iv-4-w6-81-2018},
+  publisher = {Copernicus {GmbH}},
+}
+
+@article{Vitalis2019,
+  author    = {Stelios Vitalis and Ken Arroyo Ohori and Jantien Stoter},
+  title     = {Incorporating Topological Representation in 3D City Models},
+  journal   = {{ISPRS} International Journal of Geo-Information},
+  year      = {2019},
+  volume    = {8},
+  number    = {8},
+  pages     = {347},
+  month     = {aug},
+  doi       = {10.3390/ijgi8080347},
+  publisher = {{MDPI} {AG}},
+}
+
+@article{Ledoux2019,
+  author    = {Hugo Ledoux and Ken Arroyo Ohori and Kavisha Kumar and Bal{\'{a}}zs Dukai and Anna Labetski and Stelios Vitalis},
+  title     = {{CityJSON}: a compact and easy-to-use encoding of the {CityGML} data model},
+  journal   = {Open Geospatial Data, Software and Standards},
+  year      = {2019},
+  volume    = {4},
+  number    = {1},
+  month     = {jun},
+  doi       = {10.1186/s40965-019-0064-0},
+  publisher = {Springer Science and Business Media {LLC}},
+}:ET:@byteposi:	@strI"inproceedings;T:@line_cacheo:Parslet::Source::LineCache:@line_endse:!Parslet::Source::RangeSearch[3i!ijiƒiaiwi—i‰iivixiyiêiŒiIi¨i¬i›iıi
+i@icieifi|i≈iiSiii|ièi§iπiﬁi˚i˝i˛iiîii.iDiWijii™iÂ:@last_line_endiÂ:keyI"Vitalis2018;F:bibtex{I"author;TI"<Stelios Vitalis and Ken Arroyo Ohori and Jantien Stoter;TI"
+title;TI"RTopological Reconstruction of {3D} City Models with preservation of semantics;TI"booktitle;TI"ãGeospatial Technologies for All : short papers, posters and poster abstracts of the 21th AGILE Conference on Geographic Information Science;TI"	year;TI"	2018;TI"editor;TI"MMansourian, A. and Pilesj{\"{o}}, P. and Harrie, L. and von Lammeren, R.;TI"
+month;TI"jun;TI"publisher;TI"{Lund University};TI"	note;TI"bAccessible through https://agile-online.org/index.php/conference/proceedings/proceedings-2018;T:author[I"Stelios Vitalis;TI"Ken Arroyo Ohori;TI"Jantien Stoter;T:
+titleI"PTopological reconstruction of 3D city models with preservation of semantics;T:booktitleI"ãGeospatial Technologies for All : short papers, posters and poster abstracts of the 21th AGILE Conference on Geographic Information Science;T:	yearI"	2018;T:editor[	I"A. Mansourian;TI"P. Pilesj√∂;TI"L. Harrie;TI"R. von Lammeren;T:
+monthI"jun;T:publisherI"Lund University;T:	noteI"bAccessible through https://agile-online.org/index.php/conference/proceedings/proceedings-2018;T:Vitalis2018a{;o;;o;	;
+@	;iz;I"article;T;@;I"Vitalis2018a;F;{I"author;TI"1S. Vitalis and K. Arroyo Ohori and J. Stoter;TI"
+title;TI"nA {FRAMEWORK} {FOR} {THE} {REPRESENTATION} {OF} {TWO} {VERSIONS} {OF} A 3D {CITY} {MODEL} {IN} 4D {SPACE};TI"journal;TI"V{ISPRS} Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"	year;TI"	2018;TI"volume;TI"{IV}-4/W6;TI"
+pages;TI"81--88;TI"
+month;TI"sep;TI"doi;TI")10.5194/isprs-annals-iv-4-w6-81-2018;TI"publisher;TI"Copernicus {GmbH};T;[I"S. Vitalis;TI"K. Arroyo Ohori;TI"J. Stoter;T;I"VA FRAMEWORK FOR THE REPRESENTATION OF TWO VERSIONS OF a 3d CITY MODEL IN 4d SPACE;T:journalI"TISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences;T;I"	2018;T:volumeI"IV-4/W6;T:
+pagesI"81‚Äì88;T;I"sep;T:doiI")10.5194/isprs-annals-iv-4-w6-81-2018;T;I"Copernicus GmbH;T:Vitalis2019{;o;;o;	;
+@	;ig;I"article;T;@;I"Vitalis2019;F;{I"author;TI"<Stelios Vitalis and Ken Arroyo Ohori and Jantien Stoter;TI"
+title;TI"?Incorporating Topological Representation in 3D City Models;TI"journal;TI"5{ISPRS} International Journal of Geo-Information;TI"	year;TI"	2019;TI"volume;TI"8;TI"number;TI"8;TI"
+pages;TI"347;TI"
+month;TI"aug;TI"doi;TI"10.3390/ijgi8080347;TI"publisher;TI"{MDPI} {AG};T;[I"Stelios Vitalis;TI"Ken Arroyo Ohori;TI"Jantien Stoter;T;I"?Incorporating topological representation in 3d city models;T;I"3ISPRS International Journal of Geo-Information;T;I"	2019;T;I"8;T:numberI"8;T; I"347;T;I"aug;T;!I"10.3390/ijgi8080347;T;I"MDPI AG;T:Ledoux2019{;o;;o;	;
+@	;iˇ;I"article;T;@;I"Ledoux2019;F;{I"author;TI"tHugo Ledoux and Ken Arroyo Ohori and Kavisha Kumar and Bal{\'{a}}zs Dukai and Anna Labetski and Stelios Vitalis;TI"
+title;TI"O{CityJSON}: a compact and easy-to-use encoding of the {CityGML} data model;TI"journal;TI"1Open Geospatial Data, Software and Standards;TI"	year;TI"	2019;TI"volume;TI"4;TI"number;TI"1;TI"
+month;TI"jun;TI"doi;TI"10.1186/s40965-019-0064-0;TI"publisher;TI".Springer Science and Business Media {LLC};T;[I"Hugo Ledoux;TI"Ken Arroyo Ohori;TI"Kavisha Kumar;TI"Bal√°zs Dukai;TI"Anna Labetski;TI"Stelios Vitalis;T;I"KCityJSON: a compact and easy-to-use encoding of the CityGML data model;T;I"1Open Geospatial Data, Software and Standards;T;I"	2019;T;I"4;T;#I"1;T;I"jun;T;!I"10.1186/s40965-019-0064-0;T;I",Springer Science and Business Media LLC;T
